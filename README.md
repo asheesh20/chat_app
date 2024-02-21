@@ -1,4 +1,4 @@
-# chat_app
+# Chat App
 
 Chat App built using flutter.
 
