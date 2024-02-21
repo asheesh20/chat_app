@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![1708543368647](https://github.com/asheesh20/chat_app/assets/98988175/4a9ec4e1-b34c-47a8-a62c-98b37dfb3363)
+![1708543368647](https://github.com/asheesh20/chat_app/assets/98988175/84e9fe3e-6e43-4c8a-bfc6-c468851d6c0d)
+
 
 
