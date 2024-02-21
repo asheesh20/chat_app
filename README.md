@@ -1,6 +1,6 @@
 # Chat App
 
-Chat App developed using flutter.
+Chat App created using flutter.
 
 ## Screenshots
 
